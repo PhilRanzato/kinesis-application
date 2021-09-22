@@ -2,8 +2,8 @@
   "cloudwatch.emitMetrics": true,
   "kinesis.endpoint": "kinesis.us-east-2.amazonaws.com",
   "firehose.endpoint": "",
-  "awsAccessKeyId": "************",
-  "awsSecretAccessKey": "**********",
+  "awsAccessKeyId": "ACCESSKEY",
+  "awsSecretAccessKey": "SECRETKEY",
   "flows": [
     {
       "filePattern": "/tmp/kinesis-app.log*",
